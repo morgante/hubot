@@ -1,0 +1,3 @@
+[submodule "hungrybot"]
+	path = hungrybot
+	url = https://github.com/ordrin/hungrybot.git
